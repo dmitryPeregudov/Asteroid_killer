@@ -89,6 +89,7 @@ static String TAG="MyLog";
 
 
     }
+int i1;
 
     public void addAsteroid() {
         if (curentTime >= interval) {
